@@ -1,6 +1,6 @@
 # 🚀 MetaCleaner
 
-> Clean & Protect your files’ metadata — manually or automatically.
+> Clean your files’ metadata — manually or automatically.
 
 ## ✨ Features
 
@@ -14,14 +14,14 @@
   - Randomized timestamps for privacy  
 - **Office & Universal Support**  
   - `.docx` / `.xlsx` via Open XML SDK  
-  - All other formats via bundled `exiftool.exe`  
+  - All other formats  
 - **Metadata Reader** tab for raw metadata inspection  
 - **System Tray** integration: starts minimized when automation is enabled  
 
 ## ⚙️ Installation
 
-1. Download the **latest release** from the [Releases](https://github.com/yourusername/MetaCleaner/releases) page.  
-2. Extract the ZIP and ensure the entire `Resources` folder (with `exiftool.exe`, support files, and icons) is next to `MetaCleaner.exe`.  
+1. Download the **latest release** from the [Releases](https://github.com/RRRiderrr/MetaCleaner/releases) page.  
+2. Extract the .rar-file.  
 3. Double-click **MetaCleaner.exe** to run.
 
 _No build or development environment required._
