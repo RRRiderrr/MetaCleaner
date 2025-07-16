@@ -63,7 +63,7 @@ All settings (auto-clean flag and folder list) are stored in `config.json` next 
 
 ## 📜 License
 
-Released under the **MIT License**. See [LICENSE](LICENSE) for details.
+Released under the **MIT License**.
 
 ---
 
